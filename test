@@ -7,6 +7,11 @@
     <title>一問一答</title>
 </head>
 <body>
-    
+ <h1>第"n"問目</h1>
 </body>
+<script>
+let n = 0;
+let x = 0;
+
+</script>
 </html>
